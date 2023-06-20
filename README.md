@@ -1,0 +1,2 @@
+# stringCalculator
+Practising the Kata
